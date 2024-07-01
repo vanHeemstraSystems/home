@@ -4,6 +4,6 @@
 
 See [README.md](./100/README.md)
 
-## 200 - Favorites
+## 200 - Extensions & Favorites
 
 See [README.md](./200/README.md)
