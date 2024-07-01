@@ -1,6 +1,6 @@
 # 300 - Building Our Home
 
-## 100 - Starting Page
+## 100 - Home Page
 
 See [README.md](./100/README.md)
 
