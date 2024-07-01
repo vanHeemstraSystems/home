@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home
+# Home
 
-Based on "ABC" at https://www.abc.com/
+Based on "Favorites - New Tab Page" at https://chromewebstore.google.com/detail/favorites-new-tab-page/kjkbcegjfanmgocnecnngfcmmojheiam
 
 ## 100 - Introduction
 
